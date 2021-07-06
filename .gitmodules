@@ -1,0 +1,3 @@
+[submodule "wortliste"]
+	path = wortliste
+	url = https://github.com/davidak/wortliste.git
